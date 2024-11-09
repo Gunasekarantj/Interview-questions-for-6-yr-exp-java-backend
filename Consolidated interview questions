@@ -96,3 +96,14 @@ Create book my show app and explain with hld and lld
 create a website which accepts excel as input and so some operations on data and convert to csv, create hld and lld for it
 url shortener hld and lld
 create a app like shared docs where two uses can edit at same time, hld and lld
+explain factory,abstract factory,strategy,adaptor,decorator amd proxy design pattern through code
+detect cycle in a linked list ,have to write java code in ide
+valid parenthesis using stack in java
+multiply 2 different set of numbers using multithreading
+method override and overload example with java code
+can we override static methods
+use of functional interfaces in java 8 compared to abstract classes in java 7
+what is fail fast
+i have a 1million records in a list , how to find the square of all the numbers very fastly using java 8
+how to create custom annotations
+what is aspect oriented programming
