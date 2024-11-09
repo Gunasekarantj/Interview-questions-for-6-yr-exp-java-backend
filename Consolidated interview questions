@@ -107,3 +107,7 @@ what is fail fast
 i have a 1million records in a list , how to find the square of all the numbers very fastly using java 8
 how to create custom annotations
 what is aspect oriented programming
+what is distributed lock and how to implement it
+what is distributed caching and how to implement it
+what is disteibuted database and what are the best design principles
+what is cqrs pattern
