@@ -1,0 +1,98 @@
+Explain the latest project you worked on and its architecture.
+Coding question on houses, rooms, flats, and the minimum count to find something (details not remembered).
+Explain the equals and hashcode contract.
+What is the difference between .equals and ==?
+What is the difference between static and static final?
+How do you handle errors when microservice A connects with B, B connects with C, and C is down due to server issues?
+What is Spring Security and how do you implement authentication and authorization?
+Write a program to check whether a string is a palindrome and write JUnit tests for it.
+Have you created custom annotations in Spring Boot?
+What is the difference between Controller and RestController?
+Why is import static and what are its uses in JUnit assert import?
+How do you deploy an application?
+What AWS services are you aware of?
+How is security implemented?
+What is an EC2 instance?
+Are you familiar with Terraform?
+How do you deploy a Dockerfile?
+What are the components of Docker?
+What are the components of Kubernetes?
+What is a Docker registry?
+What is EKS and how are properties managed there?
+Write classes to create an API for getting products based on ID and code. The response should contain a list of products. Also, test the controller class.
+What internal design pattern is used in Spring Boot?
+How do you convert the singleton scope to a prototype scope for a service at runtime?
+What is the proxy design pattern?
+What are the various design patterns used in microservices?
+How is Cassandra unique from other NoSQL databases?
+Can a consumer consume messages from more than one partition in Kafka?
+What is linger.ms in Kafka?
+What is consumer lag in Kafka?
+How do you sort employees based on ID first and then on code using Java 8 streams?
+How do you find the first non-repeating character in a string using Java 8 streams?
+What is a CTE in SQL?
+How do you get the first name and last name as the full name in SQL?
+How do you reverse a string efficiently?
+How do you find the frequency of each string using Java 8 streams?
+What is the most used design pattern in Spring Boot?
+What is the singleton design pattern?
+What is the factory design pattern?
+Given an employee class, the output should be each employee ID mapped to their salary. Also, find the employee with the maximum salary.
+What is the difference between Comparator and Comparable?
+What are the different types of functional interfaces?
+Why are streams used instead of traditional methods?
+What is a deadlock and how can you avoid it?
+What is chaining in HashMap?
+What is CloudWatch?
+What is @PreDestroy?
+How do you convert a JAR to a WAR?
+What is the difference between map and flatMap?
+What is a collision?
+Write code to find the longest palindromic substring.
+What is the internal implementation of ArrayList?
+What is the difference between List and Vector?
+What is the difference between ArrayList and Array?
+What is the difference between PUT and POST?
+How do you build an application and create a JAR for a microservice? How does that JAR communicate with other microservices?
+Using Java 8 streams, how do you find the employee whose name is "Gunasekaran"?
+What are Java 8 streams and other Java 8 features?
+What is method ambiguity and why can't a Java class extend two classes?
+What is the difference between an interface and an abstract class, and what are their use cases?
+What is the difference between JPA Repository and CRUD Repository?
+What happens when a microservice is down?
+How do you ensure a transaction is persisted?
+What are the different Spring modules?
+What are the steps to connect to a database in Spring Boot?
+What are the steps to connect to an AWS service?
+How do you deploy your AWS service?
+How are properties fetched based on the environment?
+Can you explain the entire architecture of your microservice in your project?
+What is load balancing?
+What is the difference between List and Set?
+Does Set allow duplicate objects, such as user-defined objects?
+Given a table called access_record that logs user actions on a platform, write a SQL query to find the top n user-action combinations, ordered by the frequency of occurrence.
+Write a singleton class.
+How do you inject dependencies at runtime for a class that uses an interface object implemented by two subclasses?
+What is MongoDB aggregation?
+What is the use of a compound key in Cassandra?
+How do you create a microservice and what are the steps involved?
+What are the major contributions you have made to your projects?
+What major issues have you faced while developing microservices?
+How do you implement security in a Spring Boot application?
+How do you implement role-based access control in Spring Boot?
+How would you debug a microservice?
+How do you communicate between microservices?
+Write a Java program to print an equilateral triangle pattern.
+What are common CRUD queries in SQL?
+What is the use of JPA vs. normal JDBC?
+Given an integer array, stream it, find the square of each element, filter those greater than 20, and print the result in sorted order.
+How have you used Kafka?
+What is an API gateway?
+List all HTTP status codes.
+Remove all duplicates from a stream.
+Find all duplicates in a stream.
+How is Optional used?
+Create book my show app and explain with hld and lld
+create a website which accepts excel as input and so some operations on data and convert to csv, create hld and lld for it
+url shortener hld and lld
+create a app like shared docs where two uses can edit at same time, hld and lld
