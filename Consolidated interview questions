@@ -120,3 +120,5 @@ Explain how Kafka ensures load balancing among consumers with multiple producers
 How does Kafka handle failover if a consumer in a group crashes?
 What are the best practices for partitioning data when you have multiple producers?
 How does the number of consumers affect message processing latency 
+you have a list of strings, sort based on lengh and then sort based on alpbhabetical order if both string are equal
+you have employee object,sort based on age ,then sort based on salary
