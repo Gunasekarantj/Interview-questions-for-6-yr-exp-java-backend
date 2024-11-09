@@ -111,3 +111,12 @@ what is distributed lock and how to implement it
 what is distributed caching and how to implement it
 what is disteibuted database and what are the best design principles
 what is cqrs pattern
+How does Kafka handle multiple consumers in a consumer group?
+What happens if the number of consumers exceeds the number of partitions?
+How does Kafka scale with multiple producers?
+What is the ideal ratio of partitions to consumers for efficient consumption?
+How does increasing the number of partitions affect consumers and producers?What is the impact of having multiple producers on Kafka's ordering guarantees?
+Explain how Kafka ensures load balancing among consumers with multiple producers.
+How does Kafka handle failover if a consumer in a group crashes?
+What are the best practices for partitioning data when you have multiple producers?
+How does the number of consumers affect message processing latency 
